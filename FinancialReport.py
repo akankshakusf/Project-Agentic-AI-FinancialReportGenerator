@@ -7,6 +7,9 @@ from datetime import datetime
 import streamlit as st 
 import zipfile 
 
+#for steamlit deployment only 
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"] #Comment  key when running on vs code 
+
 # import environment variables
 load_dotenv(override=True)
 api_key = os.getenv('OPENAI_API_KEY')
