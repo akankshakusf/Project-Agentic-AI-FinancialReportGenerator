@@ -7,7 +7,7 @@
 
 ## ⚡ Summary
 
-**FinSight Pro** is a lightweight yet advanced application that uses a **Multi-Agentic Framework** — a hot trend in today’s AI ecosystem — to generate professional financial reports autonomously.
+**FinSight Pro** is a lightweight yet advanced application with 10 intelligent agents that uses a **Multi-Agentic Framework** — a hot trend in today’s AI ecosystem — to generate professional financial reports autonomously.
 
 Users provide stock tickers, and the system springs into action:
 - Gathers real-time market data
