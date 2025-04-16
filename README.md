@@ -1,6 +1,6 @@
 # FinSight Pro: Multi-Agentic Financial Report Generator
 
-**Project layout** - https://github.com/akankshakusf/Project-Agentic-AI-FinancialReportGenerator/blob/master/FinancialReportApp.png 
+**Project layout** -  <img src="https://github.com/akankshakusf/Project-Agentic-AI-FinancialReportGenerator/blob/master/FinancialReportApp.png" width="100%" />
 
 
 > A powerful OpenAI-powered application demonstrating how **Multi-Agentic AI** is reshaping back-office operations and compliance in finance.
