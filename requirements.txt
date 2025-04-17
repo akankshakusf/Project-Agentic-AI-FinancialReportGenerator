@@ -1,5 +1,5 @@
 openai
-autogen
+pyautogen
 python-dotenv 
 matplotlib
 yfinance
